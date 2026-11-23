@@ -1,0 +1,99 @@
+  [S1] cycle 1 t=1.7s cost 4384.7090
+  [S1] cycle 3 t=4.8s cost 4348.3362
+  [S1] cycle 4 t=6.3s cost 3968.9676
+  [S1] cycle 6 t=9.2s cost 3960.4477
+  [S1] cycle 9 t=13.7s cost 3879.1686
+  [S1] cycle 68 t=100.5s cost 3868.4900
+  [S1] cycle 77 t=113.5s cost 3770.7616
+  [S1] cycle 78 t=114.9s cost 3668.5080
+  [S1] cycle 83 t=121.9s cost 3654.5224
+  [S1] cycle 86 t=126.2s cost 3651.6403
+  [S1] cycle 87 t=127.7s cost 3616.3788
+  [S1] cycle 131 t=190.9s cost 3584.1706
+  [S1] cycle 135 t=196.6s cost 3565.4322
+  [S1] cycle 267 t=387.2s cost 3535.4696
+  [S1] cycle 399 t=591.0s cost 3517.5465
+  Stage 2 from stage1_elite0 (cost 3517.5465), 225 s
+  [S2] t=66.0s ev=8107 cost 3475.0202
+  [S2] t=66.5s ev=8165 cost 3474.0438
+  [S2] t=66.6s ev=8178 cost 3470.3690
+  [S2] t=66.7s ev=8200 cost 3466.7149
+  [S2] t=67.1s ev=8243 cost 3464.3974
+  [S2] t=67.2s ev=8258 cost 3462.6143
+  [S2] t=68.2s ev=8376 cost 3460.1664
+  [S2] t=69.5s ev=8541 cost 3459.3482
+  [S2] t=69.7s ev=8569 cost 3456.7397
+  [S2] t=74.2s ev=9130 cost 3454.7642
+  [S2] t=75.7s ev=9321 cost 3453.9254
+  [S2] t=76.6s ev=9436 cost 3453.0596
+  [S2] t=76.7s ev=9448 cost 3452.7263
+  [S2] t=79.4s ev=9783 cost 3451.8616
+  [S2] t=80.0s ev=9861 cost 3451.8616
+  [S2] t=80.6s ev=9932 cost 3451.8558
+  [S2] t=80.6s ev=9933 cost 3451.6923
+  [S2] t=83.5s ev=10295 cost 3451.0103
+  [S2] t=84.8s ev=10457 cost 3450.5556
+  [S2] t=85.9s ev=10597 cost 3447.9677
+  [S2] t=86.0s ev=10616 cost 3447.8772
+  [S2] t=88.2s ev=10882 cost 3447.8772
+  [S2] t=88.8s ev=10961 cost 3447.8772
+  [S2] t=92.3s ev=11386 cost 3447.3770
+  [S2] t=92.6s ev=11422 cost 3445.7629
+  [S2] t=95.0s ev=11727 cost 3445.6560
+  [S2] t=95.2s ev=11755 cost 3445.4835
+  [S2] t=98.7s ev=12181 cost 3444.8432
+  [S2] t=99.2s ev=12241 cost 3444.7536
+  [S2] t=100.0s ev=12332 cost 3444.7536
+  [S2] t=104.8s ev=12936 cost 3444.7536
+  [S2] t=105.7s ev=13040 cost 3444.7536
+  [S2] t=209.6s ev=26028 cost 3444.7431
+  [S2] t=210.1s ev=26087 cost 3444.7431
+  [S2] t=213.7s ev=26544 cost 3444.7431
+  [S2] t=218.2s ev=27092 cost 3444.7431
+  [S2] done: 32906 steps, 27882 SOCP solves (3659 infeasible), 7.0 ms/solve
+  Stage 2 from stage1_elite1 (cost 3535.4696), 225 s
+  [S2] t=0.0s ev=27884 cost 3476.6628
+  [S2] t=55.5s ev=35096 cost 3474.7391
+  [S2] t=55.5s ev=35097 cost 3472.3403
+  [S2] t=55.6s ev=35114 cost 3469.1636
+  [S2] t=57.1s ev=35317 cost 3464.4689
+  [S2] t=57.2s ev=35324 cost 3464.4689
+  [S2] t=62.8s ev=36017 cost 3460.0072
+  [S2] t=63.0s ev=36043 cost 3455.7469
+  [S2] t=63.0s ev=36045 cost 3450.8330
+  [S2] t=63.2s ev=36069 cost 3445.2811
+  [S2] t=63.3s ev=36078 cost 3444.8337
+  [S2] t=85.1s ev=38941 cost 3443.6144
+  [S2] t=86.2s ev=39076 cost 3442.9767
+  [S2] t=88.4s ev=39372 cost 3442.7627
+  [S2] t=88.7s ev=39404 cost 3442.6088
+  [S2] t=88.7s ev=39405 cost 3442.6088
+  [S2] t=89.9s ev=39561 cost 3440.3711
+  [S2] t=89.9s ev=39562 cost 3440.3711
+  [S2] t=90.9s ev=39699 cost 3437.6220
+  [S2] t=92.1s ev=39860 cost 3436.9617
+  [S2] t=101.8s ev=41113 cost 3435.6919
+  [S2] t=102.8s ev=41241 cost 3435.6074
+  [S2] t=103.4s ev=41330 cost 3435.6074
+  [S2] t=111.4s ev=42285 cost 3435.6074
+  [S2] t=116.6s ev=42935 cost 3432.1120
+  [S2] t=116.9s ev=42974 cost 3432.1120
+  [S2] t=119.3s ev=43277 cost 3432.1120
+  [S2] t=119.3s ev=43283 cost 3432.1120
+  [S2] t=123.3s ev=43790 cost 3429.0827
+  [S2] t=124.1s ev=43889 cost 3429.0827
+  [S2] t=128.6s ev=44468 cost 3429.0827
+  [S2] t=130.1s ev=44668 cost 3429.0827
+  [S2] t=146.9s ev=46825 cost 3429.0827
+  [S2] t=150.6s ev=47299 cost 3429.0827
+  [S2] t=153.6s ev=47674 cost 3429.0827
+  [S2] t=159.7s ev=48436 cost 3426.7103
+  [S2] t=160.4s ev=48523 cost 3425.0986
+  [S2] t=163.8s ev=48930 cost 3425.0986
+  [S2] t=189.9s ev=52072 cost 3425.0986
+  [S2] done: 32794 steps, 56292 SOCP solves (6705 infeasible), 6.9 ms/solve
+  Stage 2 from stage1_elite2 (cost 3565.4322), 225 s
+  [S2] done: 30481 steps, 83474 SOCP solves (11887 infeasible), 7.0 ms/solve
+  Stage 2 from stage1_elite3 (cost 3584.1706), 225 s
+  [S2] done: 31001 steps, 111139 SOCP solves (17585 infeasible), 7.0 ms/solve
+ours         SC30   seed 102 cost 3425.0986000157554 feasible True wall 1800.1s -> results/windows_rerun/records_long\ours_SC30_s102.json

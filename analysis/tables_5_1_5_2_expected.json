@@ -1,0 +1,282 @@
+[
+ {
+  "method": "CRO",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 5123.24,
+  "mean": 5291.01
+ },
+ {
+  "method": "CRO",
+  "instance": "Du62",
+  "feasible": 10,
+  "best": 3678297.88,
+  "mean": 3700566.61
+ },
+ {
+  "method": "CRO",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6892,
+  "mean": 131.6892
+ },
+ {
+  "method": "CRO",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 3734.94,
+  "mean": 4311.81
+ },
+ {
+  "method": "CRO",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 18522.79,
+  "mean": 18522.79
+ },
+ {
+  "method": "CRO+P",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 5123.24,
+  "mean": 5291.01
+ },
+ {
+  "method": "CRO+P",
+  "instance": "Du62",
+  "feasible": 10,
+  "best": 3678291.91,
+  "mean": 3700540.99
+ },
+ {
+  "method": "CRO+P",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6532,
+  "mean": 131.657
+ },
+ {
+  "method": "CRO+P",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 3528.51,
+  "mean": 4126.31
+ },
+ {
+  "method": "CRO+P",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 18522.79,
+  "mean": 18522.79
+ },
+ {
+  "method": "Construct",
+  "instance": "AB20",
+  "feasible": 1,
+  "best": 8824.29,
+  "mean": 8824.29
+ },
+ {
+  "method": "Construct",
+  "instance": "Du62",
+  "feasible": 1,
+  "best": 4684133.69,
+  "mean": 4684133.69
+ },
+ {
+  "method": "Construct",
+  "instance": "O7",
+  "feasible": 1,
+  "best": 151.0684,
+  "mean": 151.0684
+ },
+ {
+  "method": "Construct",
+  "instance": "SC30",
+  "feasible": 1,
+  "best": 9880.4,
+  "mean": 9880.4
+ },
+ {
+  "method": "Construct",
+  "instance": "vC10a",
+  "feasible": 1,
+  "best": 28322.56,
+  "mean": 28322.56
+ },
+ {
+  "method": "GA",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 5537.01,
+  "mean": 6216.97
+ },
+ {
+  "method": "GA",
+  "instance": "Du62",
+  "feasible": 10,
+  "best": 3696431.38,
+  "mean": 3735359.99
+ },
+ {
+  "method": "GA",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6892,
+  "mean": 137.7969
+ },
+ {
+  "method": "GA",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 4632.73,
+  "mean": 5124.95
+ },
+ {
+  "method": "GA",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 19670.2,
+  "mean": 22007.37
+ },
+ {
+  "method": "Ours",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 4949.54,
+  "mean": 5020.81
+ },
+ {
+  "method": "Ours",
+  "instance": "Du62",
+  "feasible": 10,
+  "best": 3629508.93,
+  "mean": 3637888.92
+ },
+ {
+  "method": "Ours",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6532,
+  "mean": 131.6532
+ },
+ {
+  "method": "Ours",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 3301.27,
+  "mean": 3407.85
+ },
+ {
+  "method": "Ours",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 18522.79,
+  "mean": 18522.79
+ },
+ {
+  "method": "SA",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 4926.92,
+  "mean": 5043.2
+ },
+ {
+  "method": "SA",
+  "instance": "Du62",
+  "feasible": 10,
+  "best": 3623772.52,
+  "mean": 3666052.33
+ },
+ {
+  "method": "SA",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6892,
+  "mean": 131.6892
+ },
+ {
+  "method": "SA",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 3469.66,
+  "mean": 3646.64
+ },
+ {
+  "method": "SA",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 18522.79,
+  "mean": 18522.79
+ },
+ {
+  "method": "SA+P",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 4926.92,
+  "mean": 5043.2
+ },
+ {
+  "method": "SA+P",
+  "instance": "Du62",
+  "feasible": 10,
+  "best": 3623751.81,
+  "mean": 3666030.22
+ },
+ {
+  "method": "SA+P",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6532,
+  "mean": 131.6565
+ },
+ {
+  "method": "SA+P",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 3381.58,
+  "mean": 3534.2
+ },
+ {
+  "method": "SA+P",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 18522.79,
+  "mean": 18522.79
+ },
+ {
+  "method": "Swap",
+  "instance": "AB20",
+  "feasible": 10,
+  "best": 5495.96,
+  "mean": 5573.29
+ },
+ {
+  "method": "Swap",
+  "instance": "Du62",
+  "feasible": 1,
+  "best": 4023859.84,
+  "mean": 4023859.84
+ },
+ {
+  "method": "Swap",
+  "instance": "O7",
+  "feasible": 10,
+  "best": 131.6892,
+  "mean": 131.6892
+ },
+ {
+  "method": "Swap",
+  "instance": "SC30",
+  "feasible": 10,
+  "best": 4386.11,
+  "mean": 4534.38
+ },
+ {
+  "method": "Swap",
+  "instance": "vC10a",
+  "feasible": 10,
+  "best": 18522.79,
+  "mean": 18804.48
+ }
+]

@@ -1,0 +1,12 @@
+  [S1] cycle 1 t=6.1s cost 3652988.5200
+  [S1] cycle 2 t=11.7s cost 3637045.4579
+  [S1] cycle 51 t=292.6s cost 3635531.1947
+  Stage 2 from stage1_elite0 (cost 3635531.1947), 74 s
+  [S2] done: 590 steps, 586 SOCP solves (304 infeasible), 122.6 ms/solve
+  Stage 2 from stage1_elite1 (cost 3637045.4579), 74 s
+  [S2] done: 590 steps, 1172 SOCP solves (639 infeasible), 122.8 ms/solve
+  Stage 2 from stage1_elite2 (cost 3652988.5200), 74 s
+  [S2] done: 550 steps, 1716 SOCP solves (966 infeasible), 126.0 ms/solve
+  Stage 2 from stage1_elite3 (cost 3653201.6602), 74 s
+  [S2] done: 549 steps, 2264 SOCP solves (1247 infeasible), 127.4 ms/solve
+ours         Du62   seed 202 cost 3635525.2914139554 feasible True wall 600.0s -> results/windows_rerun/records_long/du62_seeds\ours_Du62_s202.json

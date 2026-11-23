@@ -1,0 +1,9 @@
+  [S1] cycle 1 t=6.1s cost 3673215.8567
+  [S1] cycle 2 t=11.7s cost 3656536.1333
+  [S1] cycle 4 t=22.7s cost 3656467.5366
+  [S1] cycle 9 t=51.0s cost 3641658.1519
+  [S1] cycle 10 t=56.8s cost 3633719.5917
+  SOCP 173 ms: 1705 solves < 3000 -> Stage 1 continues, Stage 2 = polish only
+  [S1] cycle 1 t=5.7s cost 3633719.5917
+  [S1] cycle 49 t=280.1s cost 3633573.6839
+ours         Du62   seed 209 cost 3633478.950598401 feasible True wall 603.3s -> results/windows_rerun/records_long/du62_seeds\ours_Du62_s209.json
